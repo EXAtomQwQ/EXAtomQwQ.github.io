@@ -1,0 +1,22 @@
+#footer {
+    margin-top: 0px;
+    clear: both;
+    background: #222222;
+    color: #7f7f7f;
+    border-radius: 15px;
+}
+
+#footer .w {
+    text-align: center;
+    padding: 7px 0px 1px 0px;
+}
+
+#footer a,
+#footer a {
+    color: #7f7f7f;
+    text-decoration: none;
+}
+
+p.down {
+    font-size: 14px;
+}
